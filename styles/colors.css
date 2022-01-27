@@ -1,7 +1,10 @@
 :root {
   --icons: #51585c;
   --white: #fff;
-  --gray-light: #ededed;
+  --gray: #d1d7db;
+  --gray-light: #f0f2f5;
   --gray-light-2: #F6F6F6;
   --text-disabled: #999999;
+  --status: #667781;
+  --scroll-bar: #ced0d1;
 }
